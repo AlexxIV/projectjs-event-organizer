@@ -1,0 +1,146 @@
+{
+  "isLocked": false,
+  "events": [
+    {
+      "id": 1,
+      "name": "Test",
+      "allowUnderage": false,
+      "clients": [
+        {
+          "id": 1,
+          "name": "Test Testing",
+          "gender": "male",
+          "age": 15
+        },
+        {
+          "id": 2,
+          "name": "Test2 Testing2",
+          "gender": "female",
+          "age": 16
+        },
+        {
+          "id": 3,
+          "name": "Test3 Testing3",
+          "gender": "male",
+          "age": 17
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Test2",
+      "allowUnderage": false,
+      "clients": []
+    },
+    {
+      "id": 3,
+      "name": "Test3",
+      "allowUnderage": true,
+      "clients": []
+    },
+    {
+      "id": 4,
+      "name": "Test4",
+      "allowUnderage": false,
+      "clients": []
+    },
+    {
+      "id": 5,
+      "name": "Test5",
+      "allowUnderage": true,
+      "clients": []
+    },
+    {
+      "id": 6,
+      "name": "Test6",
+      "allowUnderage": false,
+      "clients": []
+    },
+    {
+      "id": 7,
+      "name": "Test7",
+      "allowUnderage": true,
+      "clients": []
+    },
+    {
+      "id": 8,
+      "name": "Test8",
+      "allowUnderage": false,
+      "clients": []
+    },
+    {
+      "id": 9,
+      "name": "Test9",
+      "allowUnderage": true,
+      "clients": []
+    },
+    {
+      "id": 10,
+      "name": "Test10",
+      "allowUnderage": false,
+      "clients": []
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "name": "Test Testing",
+      "gender": "male",
+      "age": 15
+    },
+    {
+      "id": 2,
+      "name": "Test2 Testing2",
+      "gender": "female",
+      "age": 16
+    },
+    {
+      "id": 3,
+      "name": "Test3 Testing3",
+      "gender": "male",
+      "age": 17
+    },
+    {
+      "id": 4,
+      "name": "Test4 Testing4",
+      "gender": "female",
+      "age": 18
+    },
+    {
+      "id": 5,
+      "name": "Test5 Testing5",
+      "gender": "male",
+      "age": 19
+    },
+    {
+      "id": 6,
+      "name": "Test6 Testing6",
+      "gender": "female",
+      "age": 20
+    },
+    {
+      "id": 7,
+      "name": "Test7 Testing7",
+      "gender": "male",
+      "age": 21
+    },
+    {
+      "id": 8,
+      "name": "Test8 Testing8",
+      "gender": "female",
+      "age": 22
+    },
+    {
+      "id": 9,
+      "name": "Test9 Testing9",
+      "gender": "male",
+      "age": 23
+    },
+    {
+      "id": 10,
+      "name": "Test10 Testing10",
+      "gender": "female",
+      "age": 24
+    }
+  ]
+}
