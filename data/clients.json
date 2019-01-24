@@ -1,0 +1,20 @@
+{
+  "clients": [
+    {
+      "id": 0,
+      "name": "Alex",
+      "gender": "male",
+      "age": 20,
+      "wallet": 576,
+      "vipStatus": false,
+      "eventsVisited": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "isLocked": false,
+  "events": [
+    {
+      "id": 0,
+      "name": "Party",
+      "allowUnderage": true,
+      "price": 20,
+      "clients": [
+        0
+      ]
+    },
+    {
+      "id": 1,
+      "name": "NewParty",
+      "allowUnderage": false,
+      "price": 100,
+      "clients": [
+        0
+      ]
+    },
+    {
+      "id": 2,
+      "name": "NewParty",
+      "allowUnderage": false,
+      "price": 100,
+      "clients": [
+        0
+      ]
+    },
+    {
+      "id": 3,
+      "name": "TomorrowLand",
+      "allowUnderage": false,
+      "price": 200,
+      "clients": [
+        0
+      ]
+    },
+    {
+      "id": 4,
+      "name": "SelksiSabor",
+      "allowUnderage": true,
+      "price": 2,
+      "clients": [
+        0
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Parteee",
+      "allowUnderage": true,
+      "price": 500,
+      "clients": [
+        0
+      ]
+    }
+  ]
+}

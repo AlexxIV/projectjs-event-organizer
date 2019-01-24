@@ -1,11 +1,12 @@
 import fs from 'fs';
 
 class SaveHandler {
-    static save(data) {
-        fs.writeFile("data/data.json", data, function(err) {
+    static save(filename, data) {
+        fs.writeFile(filename, JSON.stringify(data), function(err) {
             if (err) {
                 console.log(err);
             }
+            console.log('Saved successfully!');
         });
     }
 }
